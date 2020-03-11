@@ -1,11 +1,11 @@
-<a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
+<a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
-# Firmware for BigClown Lora ČRA Ještěd - 3D Model
+# Firmware for HARDWARIO Lora ČRA Ještěd - 3D Model
 
 [![Travis](https://img.shields.io/travis/bigclownprojects/bcf-lora-cra-jested/master.svg)](https://travis-ci.org/bigclownprojects/bcf-lora-cra-jested)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-lora-cra-jested.svg)](https://github.com/bigclownprojects/bcf-lora-cra-jested/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-lora-cra-jested.svg)](https://github.com/bigclownprojects/bcf-lora-cra-jested/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
+[![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
 
 ## Description
 
