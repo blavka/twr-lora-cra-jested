@@ -2,7 +2,7 @@
 
 # Firmware for HARDWARIO Lora ČRA Ještěd - 3D Model
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-lora-cra-jested/master.svg)](https://travis-ci.org/bigclownprojects/bcf-lora-cra-jested)
+[![build](https://github.com/hardwario/twr-lora-cra-jested/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-lora-cra-jested/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-lora-cra-jested.svg)](https://github.com/bigclownprojects/bcf-lora-cra-jested/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-lora-cra-jested.svg)](https://github.com/bigclownprojects/bcf-lora-cra-jested/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
